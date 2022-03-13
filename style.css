@@ -10,7 +10,7 @@ img {
     width: 200px;
 }
 
-,bio {
+.bio {
     padding: 20px;
     font-size: 20px;
     text-align: center;
@@ -21,7 +21,8 @@ h1 {
     font-size: 35px;
 }
 
-,menu {
+.menu {
+    right:30px; 
     list-style: none;
     font-family: cursive;
     float: right;
